@@ -14,5 +14,5 @@ Config pribadi saya untuk Hyprland (Garuda Linux)
 ## 🚀 Cara pakai
 
 ```bash
-git clone https://github.com/adrnagngibrhm/dotfiles.git
-cp -r dotfiles/* ~/.config/
+git clone https://github.com/adrnagngibrhm/hyprland_conf.git
+cp -r hyprland_conf/* ~/.config/
