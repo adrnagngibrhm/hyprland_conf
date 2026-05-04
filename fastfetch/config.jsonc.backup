@@ -1,0 +1,30 @@
+{
+  "logo": {
+    "type": "file",
+    "source": "/home/yankagenou/.config/fastfetch/ascii.txt",
+    "width": 1,
+    "padding": { "right": 3 }
+  },
+
+  "display": {
+    "separator": "  "
+  },
+
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "wm",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "break",
+    "colors"
+  ]
+}

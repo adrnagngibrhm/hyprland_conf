@@ -1,0 +1,5 @@
+"logo": {
+  "type": "file",
+  "source": "/home/yankage/.config/fastfetch/ascii1.txt",
+  "padding": { "right": 2 }
+}
